@@ -27,7 +27,7 @@ body {
     content: '';
     background-size: contain;
     display: inline-block;
-    background-image: url('/assets/img/background-top.svg');
+    background-image: url('../img/background-top.svg');
     background-repeat: no-repeat;
     width: 140vw;
     height: 80vh;
@@ -39,7 +39,7 @@ body {
 
 .main::after {
     content: '';
-    background-image: url('/assets/img/background-top.svg');
+    background-image: url('../img/background-top.svg');
     background-size: contain;
     display: inline-block;
     background-repeat: no-repeat;

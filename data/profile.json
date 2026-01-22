@@ -12,27 +12,27 @@
     "hardSkills": [
       {
         "name": "css",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/mbittencurt/dinamic-curriculum-js/refs/heads/main/data/img/css.png"
       },
       {
         "name": "html",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/mbittencurt/dinamic-curriculum-js/refs/heads/main/data/img/html%20(1).png"
       },
       {
         "name": "js",
-        "logo": ""
-      },
-      {
-        "name": "react",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/mbittencurt/dinamic-curriculum-js/refs/heads/main/data/img/js.png"
       },
       {
         "name": "git",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/mbittencurt/dinamic-curriculum-js/refs/heads/main/data/img/git%20(1).png"
+      },
+      {
+        "name": "github",
+        "logo": "https://raw.githubusercontent.com/mbittencurt/dinamic-curriculum-js/refs/heads/main/data/img/github%20(1).png"
       },
       {
         "name": "coreldraw",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/mbittencurt/dinamic-curriculum-js/refs/heads/main/data/img/coreldraw.png"
       }
     ],
     "softSkills": [

@@ -55,23 +55,23 @@
 }
 
 .information .job::before {
-    background-image: url('/assets/img/main.svg');
+    background-image: url('../img/main.svg');
 }
 
 .information .wpp::before {
-    background-image: url('/assets/img/wpp.svg');
+    background-image: url('../img/wpp.svg');
 }
 
 .information .email::before {
-    background-image: url('/assets/img/email.svg');
+    background-image: url('../img/email.svg');
 }
 
 .information .local::before {
-    background-image: url('/assets/img/local.svg');
+    background-image: url('../img/local.svg');
 }
 
 .information .linkedin::before {
-    background-image: url('/assets/img/linkedin.svg');
+    background-image: url('../img/linkedin.svg');
 }
 
 
