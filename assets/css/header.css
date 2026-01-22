@@ -1,0 +1,104 @@
+
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header .photo {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.header .tittle {
+    text-align: left;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.information p {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: .01rem;
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
+
+.information p a {
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+}
+
+.information p a:hover {
+    text-decoration: underline;
+}
+
+.information p::before {
+    margin-right: 0.5rem;
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.information .job::before {
+    background-image: url('/assets/img/main.svg');
+}
+
+.information .wpp::before {
+    background-image: url('/assets/img/wpp.svg');
+}
+
+.information .email::before {
+    background-image: url('/assets/img/email.svg');
+}
+
+.information .local::before {
+    background-image: url('/assets/img/local.svg');
+}
+
+.information .linkedin::before {
+    background-image: url('/assets/img/linkedin.svg');
+}
+
+
+@media only screen and (min-width: 768px) {
+    .header {
+        display: grid;
+        grid-template-areas:
+        "photo tittle"
+        "photo information";
+        flex-direction: row;
+    }
+
+    .header .photo {
+        grid-area: photo;
+        margin: 0;
+
+    }
+
+    .header .tittle {
+        grid-area: tittle;
+        text-align: start;
+        max-width: 210px;
+        
+    }
+
+    .header .information {
+        grid-area: information;
+        
+    }
+}

@@ -1,0 +1,23 @@
+.skills {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+.skills .professionals-skills {
+    list-style: none;
+}
+
+.skills .professionals-skills img {
+    width: 6rem;
+}
+
+.skills ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+

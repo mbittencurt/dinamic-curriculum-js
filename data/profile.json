@@ -1,0 +1,89 @@
+{
+  "name": "Marcus P. Bittencurt",
+  "photo": "https://avatars.githubusercontent.com/u/201637170?v=4",
+  "job": "Developer Front-end",
+  "local1": "Brasília - DF",
+  "local2": "Rosario - Argentina",
+  "number1": "(61) 98431-0823",
+  "number2": "+54 9 341 285-8091",
+  "email": "marcusbittencurt@gmail.com",
+  "linkedin": "linkedin.com/in/marcusbittencurt/",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "css",
+        "logo": ""
+      },
+      {
+        "name": "html",
+        "logo": ""
+      },
+      {
+        "name": "js",
+        "logo": ""
+      },
+      {
+        "name": "react",
+        "logo": ""
+      },
+      {
+        "name": "git",
+        "logo": ""
+      },
+      {
+        "name": "coreldraw",
+        "logo": ""
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português (nativo)",
+    "Inglês (básico / intermediário)",
+    "Espanhol (intermediário / avançado)"
+  ],
+  "educations": [
+      {
+        "graduation": "Graduação em análise e desenvolvimento de sistemas",
+        "time": "2023 - 2025",
+        "institution": "Anhembi Morumbi"
+      }
+  ],
+  "portfolio": [
+    {
+      "name": "Criando uma Pokédex com PokeAPI",
+      "url": "https://github.com/mbittencurt/pokedex"
+    },
+    {
+      "name": "Site Dragon ball dinâmico com JS",
+      "url": "https://github.com/mbittencurt/dragon-ball-simple-project"
+    },
+    {
+      "name": "Site Bulls and Bear (HTML & CSS only)",
+      "url": "https://github.com/mbittencurt/bull-and-bear-html-css-only"
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Designer Gráfico (WJ Gráfica Rápida)",
+      "period": "2015 - 2022 / 2024 - 2025",
+      "description": "ÉAtuação no atendimento direto ao cliente, realizando recepção, esclarecimento de dúvidas e levantamento de demandas. Responsável pela organização de pedidos, acompanhamento de prazos e orientação sobre formatos de impressão. Apoio, criação e ajuste de materiais gráficos com CorelDRAW, auxiliando na preparação de arquivos para impressão e garantindo alinhamento entre as solicitações do cliente e o processo produtivo."
+    },
+    {
+      "name": "Designer Gráfico (Real Mix)",
+      "period": "2023 - 2024",
+      "description": "Criação e desenvolvimento de materiais gráficos utilizando CorelDRAW, incluindo banners, panfletos, cartões de visita e peças gráficas em geral. Preparação, revisão e finalização de arquivos para impressão, assegurando padronização visual, qualidade técnica e conformidade com os processos de produção, além de contato direto com clientes para ajustes e validações das artes."
+    },
+    {
+      "name": "Corretor de Empréstimos Consignados (Kevi Corretora)",
+      "period": "2013 - 2015",
+      "description": "Atuação no atendimento e prospecção de clientes , análise de informações e conferência de dados. Responsável pela digitação, envio e acompanhamento de propostas em sistemas bancários, seguindo normas e prazos, com foco em organização, precisão das informações e responsabilidade no tratamento de dados."
+    }
+  ]
+}
